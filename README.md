@@ -1,8 +1,6 @@
 # Opa, bom?👋
 
-<img align="right" src=".github/image.png" width="300"/> 
-
-Me chamo Daniel Barboza, tenho 20 anos, moro em Ibitinga-SP, sou técnico em informática e atualmente sou desenvolvedor **Frontend Pleno** na Image Press.
+Me chamo Daniel Barboza, tenho 20 anos, moro em Ibitinga-SP, sou técnico em informática e atualmente sou desenvolvedor **Frontend** na Image Press.
 
 ## 📋 Skills
 
