@@ -13,9 +13,9 @@ Me chamo Daniel Barboza, tenho 20 anos, moro em Ibitinga-SP, sou técnico em inf
 
 ## 📫 Contatos
 
-[![Twitch Badge](https://img.shields.io/badge/@leovargasdev-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/leovargasdev)](https://twitch.com/danielbarboza2)
-[![Instagram Badge](https://img.shields.io/badge/@leuvargas-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/daniel_barboza2)](https://instagram.com/daniel_barboza2)
-[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Vargas-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-barboza-745b05192/)](https://www.linkedin.com/in/daniel-barboza-745b05192/) 
+[![Twitch Badge](https://img.shields.io/badge/@danielbarboza2-2D425E?style=flat&labelColor=2D425E&logo=twitch&logoColor=white&link=https://twitch.com/leovargasdev)](https://twitch.com/danielbarboza2)
+[![Instagram Badge](https://img.shields.io/badge/@daniel_barboza2-2D425E?style=flat&labelColor=2D425E&logo=instagram&logoColor=white&link=https://instagram.com/daniel_barboza2)](https://instagram.com/daniel_barboza2)
+[![Linkedin Badge](https://img.shields.io/badge/Daniel%20Barboza-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-barboza-745b05192/)](https://www.linkedin.com/in/daniel-barboza-745b05192/) 
 
 
 ![Tsuiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuiya&show_icons=true&theme=radical)
