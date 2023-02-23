@@ -24,6 +24,6 @@ Me chamo Daniel Barboza, tenho 21 anos, moro em Ibitinga-SP, sou técnico em inf
 [![Linkedin Badge](https://img.shields.io/badge/Daniel%20Barboza-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-barboza-745b05192/)](https://www.linkedin.com/in/daniel-barboza-745b05192/) 
 
 
-![Tsuiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuiya&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuiya)](https://github.com/anuraghazra/github-readme-stats)
-![Tsuiya's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Tsuiya}&theme=blue-green)
+![Tsuiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuiya&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuiya&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
