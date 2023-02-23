@@ -26,4 +26,4 @@ Me chamo Daniel Barboza, tenho 21 anos, moro em Ibitinga-SP, sou técnico em inf
 
 ![Tsuiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuiya&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsuiya)](https://github.com/anuraghazra/github-readme-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username={Tsuiya}&theme=blue-green
+![Tsuiya's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Tsuiya}&theme=blue-green)
