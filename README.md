@@ -6,12 +6,12 @@ Me chamo Daniel Barboza, tenho 21 anos, moro em Ibitinga-SP, sou técnico em inf
 
 [![JS](https://img.shields.io/badge/JavaScript-5E5C5C?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&style=plastic)]()
-https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[![Xamarin]https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white]()
+[![Csharp]https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white]()
+[![Html]https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white]()
+[![Css]https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white]()
+[![Php]https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white]()
+[![Postgresql]https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white]()
 
 
 
