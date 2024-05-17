@@ -1,6 +1,6 @@
 # Opa, bom?👋
 
-Me chamo Daniel Barboza, tenho 21 anos, moro em Ibitinga-SP, sou técnico em informática e atualmente sou desenvolvedor **Frontend**.
+Me chamo Daniel Barboza, tenho 22 anos, moro em Ibitinga-SP, sou técnico em informática e atualmente sou desenvolvedor **Frontend**.
 
 ## 📋 Skills
 
